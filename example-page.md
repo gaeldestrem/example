@@ -8,5 +8,4 @@ Block image
 
 ## Inline image
 
-Inline image [![build status](https://img.shields.io/travis/reduxjs/redux/master.svg?style=flat-square)](https://travis-ci.org/reduxjs/redux)
-
+Inline image ![build status](https://img.shields.io/travis/reduxjs/redux/master.svg?style=flat-square)
